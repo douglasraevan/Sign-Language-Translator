@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "license": "do what you want but try to give back",
   "dependencies": {
+    "@microsoft/customvision-tfjs": "^1.1.0",
+    "@tensorflow/tfjs": "^2.7.0",
     "deeplearn": "~0.5.0",
     "deeplearn-knn-image-classifier": "^0.3.0",
     "pre-commit": "^1.2.2"
